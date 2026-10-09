@@ -1,0 +1,16 @@
+# Fichiers compilés
+target/
+*.class
+*.jar
+*.war
+
+# Configuration IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Fichiers système
+*.log
+.DS_Store
+Thumbs.db
